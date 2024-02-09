@@ -1,1 +1,1 @@
-# interviewprep
+# This repo includes interview preparation materials.
